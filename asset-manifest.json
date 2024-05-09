@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Image_Finder_Material_UI/static/css/main.dc0fdff9.css",
+    "main.js": "/Image_Finder_Material_UI/static/js/main.987a0e68.js",
+    "index.html": "/Image_Finder_Material_UI/index.html",
+    "main.dc0fdff9.css.map": "/Image_Finder_Material_UI/static/css/main.dc0fdff9.css.map",
+    "main.987a0e68.js.map": "/Image_Finder_Material_UI/static/js/main.987a0e68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc0fdff9.css",
+    "static/js/main.987a0e68.js"
+  ]
+}
